@@ -1,2 +1,2 @@
 # FAQs-2024
-# Interview Questions and Answer = Collections
+# Interview Questions and Answer - Collections
